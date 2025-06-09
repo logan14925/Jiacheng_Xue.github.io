@@ -18,11 +18,13 @@ I am Jiacheng Xue (薛嘉诚), a [Bachelor’s/Master’s] student in Mechanical
 - Mechanical metamaterials for innovative applications.
 - Machine learning-based inverse design in engineering.
 
-
-
 ## Education
 -         Xi’an Jiaotong University (Undergraduate)                  June 2023 – Present
 -         Xi’an Jiaotong University (Master’s)                       Sept. 2019 – June 2023
+
+## Research Interest
+-   
+
 
 ## Honors and Awards
 - Holder of Chinese Invention Patent (No. 7846171).
