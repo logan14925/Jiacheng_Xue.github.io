@@ -10,17 +10,14 @@ redirect_from:
 ## Current
 I am seeking a PhD position in Mechanical Engineering.
 
-## Short Bio
-Jiacheng Xue is a Master’s student in Mechanical Engineering at Xi’an Jiaotong University. Originally from Xi'an, China, he earned his undergraduate degree from Xi’an Jiaotong University (2019–2023) and is pursuing a master’s degree at the same institution (2023–Present). 
+## About me
+Jiacheng Xue is a Master’s student in Mechanical Engineering at [Xi’an Jiaotong University](https://en.xjtu.edu.cn/), where he has been studying since 2023 under the supervision of [WuLingling](https://www.xjtu.edu.cn/jsnr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1632&wbwbxjtuteacherid=2867). Originally from Xi’an, China, he earned his Bachelor’s Degree in Mechanical Engineering from Xi’an Jiaotong University (2019–2023).
 
-Jiacheng’s research focuses on developing innovative solutions in robotics design and development, mechanical metamaterials, machine learning-based inverse design and composite materials. By integrating mechanics, computational methods, and advanced manufacturing, his work aims to contribute to advancements in enhancing metamaterials' applications in robotic fields.
-
+Jiacheng’s research focuses on developing innovative solutions in robotics design and development, mechanical metamaterials, machine learning-based inverse design, and composite materials. By integrating mechanics, computational methods, and advanced manufacturing, his work aims to contribute to advancements in enhancing metamaterials’ applications in robotic fields.
 
 ## Research Experience
 
 
-<img src="../images/inverse_design.png" alt="Inverse design1">
-<img src="../images/inverse_design.PNG" alt="Inverse design2">
+<img src="../images/inverse_design.png" alt="Inverse Design of Mechanical Metamaterials Using Machine Learning">
 
-![Inverse Design of Mechanical Metamaterials Using Machine Learning1](/images/online_monitoring.PNG)
-![Inverse Design of Mechanical Metamaterials Using Machine Learnin2](/images/online_monitoring.png)
+![Online Monitoring and Closed-Loop Control of 3D Printing](/images/online_monitoring.png)
