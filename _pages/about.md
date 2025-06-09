@@ -21,8 +21,8 @@ I am Jiacheng Xue (薛嘉诚), a [Bachelor’s/Master’s] student in Mechanical
 
 
 ## Education
-- **Xi’an Jiaotong University** — *Undergraduate*  ....................  Sept. 2019 – June 2023
-- **Xi’an Jiaotong University** — *Master’s*  .........................  June 2023 – Present
+-         Xi’an Jiaotong University (Undergraduate)                  June 2023 – Present
+-         Xi’an Jiaotong University (Master’s)                       Sept. 2019 – June 2023
 
 ## Honors and Awards
 - Holder of Chinese Invention Patent (No. 7846171).
