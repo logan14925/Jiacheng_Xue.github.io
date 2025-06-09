@@ -4,7 +4,8 @@ title: "Researches"
 permalink: /researches/
 author_profile: true
 ---
-<img src="../images/inverse_design.png" alt="Inverse Design of Mechanical Metamaterials Using Machine Learning">
+
+<img src="../images/test.png" alt="Inverse Design of Mechanical Metamaterials Using Machine Learning">
 
 ![Inverse Design of Mechanical Metamaterials Using Machine Learning](/images/test.jpg)
 

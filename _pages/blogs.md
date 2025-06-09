@@ -1,7 +1,10 @@
 ---
 layout: archive
-title: "Blog Posts"
-permalink: /year-archive/
+permalink: /blogs/
+title: "Blog posts"
 author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
 ---
-123
+
+This is my blog md file
