@@ -19,7 +19,8 @@ Jiacheng’s research focuses on developing innovative solutions in robotics des
 ## Research Experience
 
 
-<img src="../images/inverse_design.png" alt="Inverse design">
-<img src="../images/inverse_design.PNG" alt="Inverse design">
+<img src="../images/inverse_design.png" alt="Inverse design1">
+<img src="../images/inverse_design.PNG" alt="Inverse design2">
 
-![Inverse Design of Mechanical Metamaterials Using Machine Learning](/images/online_monitoring.PNG)
+![Inverse Design of Mechanical Metamaterials Using Machine Learning1](/images/online_monitoring.PNG)
+![Inverse Design of Mechanical Metamaterials Using Machine Learnin2](/images/online_monitoring.png)
