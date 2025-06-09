@@ -15,7 +15,7 @@ name                     : &name "Jiacheng Xue"
 description              : &description "personal description"
 url                      : https://logan14925.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "logan14925/Jiacheng_Xue.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   name             : "Jiacheng Xue"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Xi'an China"
+  location         : "China Xi'an"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
   email            : "jiachengxue2001@gmail.com" 
