@@ -18,4 +18,4 @@ Jiacheng’s research focuses on developing innovative solutions in robotics des
 
 ## Research Experience
 
-![Online Monitoring and Closed-Loop Control of 3D Printing ](/images/inverse_design.png)
+![Online Monitoring and Closed-Loop Control of 3D Printing](/images/inverse_design.png)
