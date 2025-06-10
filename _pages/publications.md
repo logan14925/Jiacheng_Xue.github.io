@@ -5,44 +5,69 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Schcolarship
-Welcome to visit my google scholar link by clicking [**here**](https://scholar.google.com/citations?user=oS-BHzcAAAAJ&hl=en)
+# 📚 Scholarship & Publications
 
+## 🔗 Google Scholar  
+Welcome to visit my Google Scholar profile by clicking [**here**](https://scholar.google.com/citations?user=oS-BHzcAAAAJ&hl=en).
 
-## Papers
-### [<u>Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites</u>](https://www.sciencedirect.com/science/article/pii/S2950431725000061)
-Published in *March 18*, 2025
+---
 
-This study addresses the challenge of ensuring consistent mechanical performance in 3D-printed continuous fiber-reinforced composites by developing a process monitoring and closed-loop feedback control strategy. Real-time image data from the printing process were analyzed using a neural network model with 94.70% accuracy to recognize flow rate values. A control module adjusted the flow rate in real time, improving surface quality and mechanical properties, including 3–6 times higher tensile strength and elastic modulus. The approach offers a generalized solution for remote, unmanned, or extreme environment 3D printing, enhancing reliability through intelligent monitoring and automatic adjustment.
+## 📄 Selected Papers
 
-Recommended citation: Chi X.†, Xue J.†, Jia L., *et al.* **Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites.** *Additive Manufacturing Frontiers* **2025**; *4*:200196. doi: [10.1016/j.amf.2025.200196](https://doi.org/10.1016/j.amf.2025.200196). †*Co-first authors.*
+### [**Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites**](https://www.sciencedirect.com/science/article/pii/S2950431725000061)  
+*Published: March 18, 2025*  
+*Journal: Additive Manufacturing Frontiers*
 
-My contribution: **Hardware and software engineering**, **Literature writing**
+This study addresses the challenge of ensuring consistent mechanical performance in 3D-printed continuous fiber-reinforced composites by developing a process monitoring and closed-loop feedback control strategy. A neural network with 94.70% accuracy enabled real-time flow rate recognition and control, significantly improving surface quality and mechanical properties—up to 3–6× enhancement in tensile strength and elastic modulus. This strategy supports remote and unmanned printing in extreme environments.
 
-### [<u>3D-printed Metamaterials with Versatile Functionalities</u>](https://www.sciencedirect.com/science/article/pii/S2772665723000302)
-Published in *September 22*, 2023
+**Recommended citation:**  
+Chi X.†, Xue J.†, Jia L., *et al.* **Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites.** *Additive Manufacturing Frontiers* **2025**; *4*:200196. doi: [10.1016/j.amf.2025.200196](https://doi.org/10.1016/j.amf.2025.200196). †*Co-first authors.*
 
-Metamaterials are engineered structures with unique properties not found in natural materials, originally designed with periodic unit cells to control electromagnetic (EM) wave behavior. Recent advances have extended their applications across electromagnetic, thermal, acoustic, and mechanical domains. 3D printing has become a key technology in fabricating complex, multifunctional metamaterials with high precision and diverse material integration. This paper reviews the exceptional properties achieved by 3D-printed metamaterials in various fields and explores the interdependent relationship between their structure, functionality, and manufacturing processes, highlighting how additive manufacturing enables the development of advanced metamaterials with novel and integrated performance capabilities.
+**My Contribution:**  
+`Hardware and Software Engineering`, `Literature Writing`
 
-Recommended citation: Wu L., **Xue J.**, Tian X., *et al.* **3D-printed Metamaterials with Versatile Functionalities.** *Additive Manufacturing Frontiers* **2023**; *2*:100091. doi: [10.1016/j.cjmeam.2023.100091](https://doi.org/10.1016/j.cjmeam.2023.100091).
+---
 
-My contribution: **Literature search and writing**
+### [**3D-Printed Metamaterials with Versatile Functionalities**](https://www.sciencedirect.com/science/article/pii/S2772665723000302)  
+*Published: September 22, 2023*  
+*Journal: Additive Manufacturing Frontiers*
 
-### [<u>Mechanical Metamaterials for Handwritten Digits Recognition</u>](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202308137)
-Published in *December 25*, 2023
+This review explores how 3D printing enables the fabrication of complex, multifunctional metamaterials with novel properties across electromagnetic, thermal, acoustic, and mechanical domains. It highlights the interdependence between structure, function, and the manufacturing process, showcasing how additive manufacturing fuels innovation in metamaterial design.
 
-This study presents a mechanically operated, non-electrical neural network based on bistable kirigami-inspired metamaterials, designed to function in harsh, low-temperature environments. It addresses challenges in mechanical signal transmission and layout complexity. The system demonstrates reliable performance in handwritten digit recognition and offers a promising alternative to traditional electronic computing. This innovation opens new possibilities for diversified computing, particularly in settings where electricity is unavailable or limited.
+**Recommended citation:**  
+Wu L., **Xue J.**, Tian X., *et al.* **3D-Printed Metamaterials with Versatile Functionalities.** *Additive Manufacturing Frontiers* **2023**; *2*:100091. doi: [10.1016/j.cjmeam.2023.100091](https://doi.org/10.1016/j.cjmeam.2023.100091).
 
-Recommended citation: Wu L., Lu Y., Li P., Wang Y., **Xue J.**, *et al.* **Mechanical Metamaterials for Handwritten Digits Recognition.** *Advanced Science* **2024**; *11*:2308137. doi: [10.1002/advs.202308137](https://doi.org/10.1002/advs.202308137).
+**My Contribution:**  
+`Literature Search and Writing`
 
-My contribution: **Machine learning development**
+---
 
-### [<u>Genetic algorithm-enabled mechanical metamaterials for vibration isolation with different payloads</u>](https://www.sciencedirect.com/science/article/pii/S2352847824001837)
-Published in *November 23*, 2024
+###  [**Mechanical Metamaterials for Handwritten Digits Recognition**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202308137)  
+*Published: December 25, 2023*  
+*Journal: Advanced Science*
 
-This study tackles the challenge of mechanical vibration isolation under adaptable payloads by using machine learning to design quasi-zero stiffness metamaterials with customizable payloads. These metamaterials are fabricated via multi-material 3D printing. Dynamic tests confirm their effectiveness in isolating low-frequency vibrations across single and multiple payloads. The payload can be tailored to specific applications, enabling versatile energy shielding under varying scenarios and loading conditions, thus expanding the potential of adaptive mechanical systems.
+This paper presents a non-electrical mechanical neural network based on bistable kirigami-inspired metamaterials. It functions reliably in low-temperature, electricity-free environments, performing handwritten digit recognition. This innovation demonstrates the potential for mechanically driven computing as a complement to traditional electronic systems.
 
+**Recommended citation:**  
+Wu L., Lu Y., Li P., Wang Y., **Xue J.**, *et al.* **Mechanical Metamaterials for Handwritten Digits Recognition.** *Advanced Science* **2024**; *11*:2308137. doi: [10.1002/advs.202308137](https://doi.org/10.1002/advs.202308137).
 
-Recommended citation: Song X., Yan S., Wang Y., Zhang H., **Xue J.**, *et al.* **Genetic Algorithm-Enabled Mechanical Metamaterials for Vibration Isolation with Different Payloads.** *Journal of Materiomics* **2025**; *11*:100944. doi: [10.1016/j.jmat.2024.100944](https://doi.org/10.1016/j.jmat.2024.100944).
+**My Contribution:**  
+`Machine Learning Development`
 
-My contribution: **Development of hardware**
+---
+
+### [**Genetic Algorithm-Enabled Mechanical Metamaterials for Vibration Isolation with Different Payloads**](https://www.sciencedirect.com/science/article/pii/S2352847824001837)  
+*Published: November 23, 2024*  
+*Journal: Journal of Materiomics*
+
+This study introduces machine learning to design quasi-zero stiffness metamaterials with adaptable payloads, manufactured using multi-material 3D printing. They effectively isolate low-frequency vibrations across varying payloads and application scenarios, opening new avenues for smart mechanical energy shielding.
+
+**Recommended citation:**  
+Song X., Yan S., Wang Y., Zhang H., **Xue J.**, *et al.* **Genetic Algorithm-Enabled Mechanical Metamaterials for Vibration Isolation with Different Payloads.** *Journal of Materiomics* **2025**; *11*:100944. doi: [10.1016/j.jmat.2024.100944](https://doi.org/10.1016/j.jmat.2024.100944).
+
+**My Contribution:**  
+`Hardware Development`
+
+---
+
+*Feel free to reach out for collaboration or full-text requests!*
