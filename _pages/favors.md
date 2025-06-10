@@ -8,7 +8,7 @@ author_profile: true
 # RoboMaster Experience
 
 ## About RoboMaster
-RoboMaster, organized by DJI, is an annual robotics competition where university teams design robots to compete in challenges. It emphasizes innovation, teamwork, and technical skills in robotics, including mechanical design, electronics, and software development.
+[**RoboMaster**](https://www.robomaster.com/en-US), organized by DJI, is an annual robotics competition where university teams design robots to compete in challenges. It emphasizes innovation, teamwork, and technical skills in robotics, including mechanical design, electronics, and software development.
 
 
 ## My Journey in RoboMaster
@@ -57,7 +57,7 @@ I am truly honored to have spent my undergraduate years as part of the **DuXing*
   <img src="../images/2023_08.jpg" width="48%" style="display: inline-block;">
   <br>
   <em style="display: inline-block; width: 48%;">Our team's first championship in history (April 2023).</em>
-  <em style="display: inline-block; width: 48%;">Returning to Shenzhen for the National Competition after 4 years (August 2023).</em>
+  <em style="display: inline-block; width: 48%;">Returning to Shenzhen for the National Competition(August 2023).</em>
 </p>
 
 <p align="center">
