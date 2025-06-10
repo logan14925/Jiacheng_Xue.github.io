@@ -5,9 +5,9 @@ permalink: /researches/
 author_profile: true
 ---
 
-<img src="../images/test.png" alt="Inverse Design of Mechanical Metamaterials Using Machine Learning">
+# Inverse Design for Metamaterials
 
-![Inverse Design of Mechanical Metamaterials Using Machine Learning](/images/test.jpg)
+Inverse design methodologies for metamaterials leverage machine learning to create diverse, high-accuracy structures with tailored properties. This research enhances design variety and accelerates analysis, enabling precise responses to mechanical stimuli for applications in advanced composites and adaptive structures.
 
-![Online Monitoring and Closed-Loop Control of 3D Printing](/images/online_monitoring.png)
-![Online Monitoring and Closed-Loop Control of 3D Printing](/images/online_monitoring.png)
+![Inverse Design of Mechanical Metamaterials Using Machine Learning](/images/inverse_results.jpg)
+![Inverse Design of Mechanical Metamaterials Using Machine Learning](imgs/test.jpg)
