@@ -21,7 +21,7 @@ Welcome to visit my Google Scholar profile by clicking [**here**](https://schola
 This study addresses the challenge of ensuring consistent mechanical performance in 3D-printed continuous fiber-reinforced composites by developing a process monitoring and closed-loop feedback control strategy. A neural network with 94.70% accuracy enabled real-time flow rate recognition and control, significantly improving surface quality and mechanical properties—up to 3–6× enhancement in tensile strength and elastic modulus. This strategy supports remote and unmanned printing in extreme environments.
 
 **Recommended citation:**  
-Chi X.†, Xue J.†, Jia L., *et al.* **Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites.** *Additive Manufacturing Frontiers* **2025**; *4*:200196. doi: [10.1016/j.amf.2025.200196](https://doi.org/10.1016/j.amf.2025.200196). †*Co-first authors.*
+Chi X.†, **Xue J.**†, Jia L., *et al.* **Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites.** *Additive Manufacturing Frontiers* **2025**; *4*:200196. doi: [10.1016/j.amf.2025.200196](https://doi.org/10.1016/j.amf.2025.200196). †*Co-first authors.*
 
 **My Contribution:**  
 `Hardware and Software Engineering`, `Literature Writing`
