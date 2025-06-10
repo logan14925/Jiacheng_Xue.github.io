@@ -12,9 +12,9 @@ Welcome to visit my Google Scholar profile by clicking [**here**](https://schola
 
 ---
 
-## 📄 Selected Papers
 
-### [**Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites**](https://www.sciencedirect.com/science/article/pii/S2950431725000061)  
+
+## 📄 [**Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites**](https://www.sciencedirect.com/science/article/pii/S2950431725000061)  
 *Published: March 18, 2025*  
 *Journal: Additive Manufacturing Frontiers*
 
@@ -28,7 +28,7 @@ Chi X.†, **Xue J.**†, Jia L., *et al.* **Machine Learning-Based Online Monit
 
 ---
 
-### [**3D-Printed Metamaterials with Versatile Functionalities**](https://www.sciencedirect.com/science/article/pii/S2772665723000302)  
+## 📄 [**3D-Printed Metamaterials with Versatile Functionalities**](https://www.sciencedirect.com/science/article/pii/S2772665723000302)  
 *Published: September 22, 2023*  
 *Journal: Additive Manufacturing Frontiers*
 
@@ -42,7 +42,7 @@ Wu L., **Xue J.**, Tian X., *et al.* **3D-Printed Metamaterials with Versatile F
 
 ---
 
-###  [**Mechanical Metamaterials for Handwritten Digits Recognition**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202308137)  
+## 📄  [**Mechanical Metamaterials for Handwritten Digits Recognition**](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202308137)  
 *Published: December 25, 2023*  
 *Journal: Advanced Science*
 
@@ -56,7 +56,7 @@ Wu L., Lu Y., Li P., Wang Y., **Xue J.**, *et al.* **Mechanical Metamaterials fo
 
 ---
 
-### [**Genetic Algorithm-Enabled Mechanical Metamaterials for Vibration Isolation with Different Payloads**](https://www.sciencedirect.com/science/article/pii/S2352847824001837)  
+## 📄 [**Genetic Algorithm-Enabled Mechanical Metamaterials for Vibration Isolation with Different Payloads**](https://www.sciencedirect.com/science/article/pii/S2352847824001837)  
 *Published: November 23, 2024*  
 *Journal: Journal of Materiomics*
 
