@@ -18,7 +18,7 @@ Jiacheng’s research focuses on developing innovative solutions in robotics des
 ## Research Experience
 
 <p align="center">
-  <img src="../images//test.jpg" width="48%" style="display: inline-block;">
+  <img src="../images//Inverse_design.jpg" width="50%" style="display: inline-block;">
   <br>
-  <em style="display: inline-block; width: 48%;">inverse design.</em>
+  <em style="display: inline-block; width: 50%;">inverse design and post-processing.</em>
 </p>
