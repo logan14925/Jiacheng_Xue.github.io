@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites"
 collection: publications
 category: manuscripts
-permalink: /publication/3D_Printer
+permalink: /publication/Online Monitoring
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2025-03-18
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
