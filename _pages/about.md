@@ -24,5 +24,5 @@ Jiacheng’s research focuses on developing innovative solutions in robotics des
 </p>
 
 ![Editing a markdown file for a talk](../images/inverse_results.jpg)
-<img src="../images/2023_08.jpg" width="50%" style="display: inline-block;">
+<img src="../images/snip_test.jpg" width="50%" style="display: inline-block;">
 <img src="imgs/Inverse_design.jpg" width="50%" style="display: inline-block;">
