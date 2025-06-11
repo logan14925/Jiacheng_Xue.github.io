@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Current
-Hello, I am Jiacheng Xue（薛嘉诚）, a master student at [**Xi’an Jiaotong University**](https://en.xjtu.edu.cn/). I am in  advised by Prof. [**Lingling Wu**](https://gr.xjtu.edu.cn/en/web/lingling.wu/home).
+Hello, I am Jiacheng Xue（薛嘉诚）, a master student at [**Xi’an Jiaotong University**](https://en.xjtu.edu.cn/). I am in  advised by [**Prof. Lingling Wu**](https://gr.xjtu.edu.cn/en/web/lingling.wu/home).
 
 ## Research interrests
 
@@ -23,4 +23,4 @@ Jiacheng’s research focuses on developing innovative solutions in robotics des
   <em style="display: inline-block; width: 50%;">inverse design and post-processing.</em>
 </p>
 
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk]({{site.baseurl}}/images/editing-talk.png)
