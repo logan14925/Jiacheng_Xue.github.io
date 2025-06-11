@@ -16,4 +16,4 @@ Jiacheng’s research focuses on developing innovative solutions in robotics des
 
 ## Research Experience
 
-<img src="../images/snip_test.jpg" width="50%" style="display: inline-block;">
+<img src="https://github.com/logan14925/Jiacheng_Xue.github.io/blob/master/images/snip_test.jpg" width="50%" style="display: inline-block;">
