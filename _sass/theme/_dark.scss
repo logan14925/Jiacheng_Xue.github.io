@@ -3,16 +3,16 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+$gray                       : #3C3C3C;        /* A mid-tone dark gray, similar to VS Code's panel background */
+$dark-gray                  : mix(#000, $gray, 70%); /* Darker shade, closer to VS Code's deep base */
+$darker-gray                : mix(#000, $gray, 85%); /* Very dark, for text or deep accents */
+$light-gray                 : mix(#fff, $gray, 20%); /* Subtle light gray for contrasts */
 
-$background                 : #474747;
+$background                 : #1E1E1E;        /* Updated to a VS Code-like deep dark gray */
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
-$text                       : #ffffff;
-$link                       : #0ea1c5;
+$text                       : #D4D4D4;        /* Light gray for text, mimicking VS Code readability */
+$link                       : #0ea1c5;        /* Kept as is, but can adjust to #007ACC (VS Code link blue) */
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 
@@ -40,7 +40,7 @@ html[data-theme="dark"] {
     --global-footer-bg-color            : #{$background};
     --global-border-color               : #{$light-gray};
     --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
+    --global-code-background-color      : #2D2D2D; /* Darker code background like VS Code */
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
     --global-link-color                 : #{$link};
