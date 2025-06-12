@@ -29,3 +29,18 @@ During my master’s studies, I have focused on AI-based metamaterial design as 
   - Used Field-Oriented Control(FOC) to optimize the performance of electric motors in robotic applications.
   - Investigated integration of FOC with real-time feedback systems to enhance precision in robotic movements .
 
+# News
+# News
+- **Rejected by [Materials & Design](https://www.sciencedirect.com/journal/materials-and-design)**  
+  *June 2025*  
+  - Took a swing at *Materials & Design* with my research paper, but it got sent back with some reviewer feedback! Their eagle eyes helped me spot the paper’s lack of fresh sparkle. 
+  - No tears here—I’m jazzed to polish it up, add some extra pizzazz, and toss it back into the academic ring. There’s a perfect journal out there waiting for my work, and I’m ready to find it! 😎
+
+- **Achieved an Outstanding 98 on [TOEFL](https://www.ets.org/toefl.html)**  
+  *May 2025*  
+  - Earned an impressive 98/120 on the TOEFL exam through dedicated self-preparation, showcasing exceptional English proficiency with scores of Reading: 29, Listening: 22, Speaking: 22, and Writing: 25. 
+
+- **Submitted Research Paper to [Materials & Design](https://www.sciencedirect.com/journal/materials-and-design)**  
+  *February 2025*  
+  - Tossed a shiny new research paper into the ring at the prestigious *Materials & Design* journal, hoping to dazzle the materials science world with generative neural networks! 
+  - Keeping my fingers crossed for a smooth review and a chance to make waves globally 🙏
