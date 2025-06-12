@@ -41,7 +41,7 @@ html[data-theme="dark"] {
     --global-border-color               : #{$light-gray};
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #2D2D2D; /* Darker code background like VS Code */
-    --global-code-text-color            : #{$darker-gray};
+    --global-code-text-color            : #D4D4D4; /* Changed to match $text for readability */
     --global-fig-caption-color          : #{$light-gray};
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
