@@ -35,6 +35,7 @@ During my master’s studies, I have focused on AI-based metamaterial design as 
   *June 2025*  
 
   - My paper got a "nope" from *Materials & Design*, but the reviewers’ feedback showed me where it needs more shine.
+  - Fellowing reviewers' suggestions, I addressed 
   -  I’m pumped to tweak it, make it pop, and send it out again. The right journal’s out there waiting for me! 😎
 
 - **Achieved an Outstanding 98 on [TOEFL](https://www.ets.org/toefl.html)**  
