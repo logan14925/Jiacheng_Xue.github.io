@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiacheng Xue's Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jiacheng Xue"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   avatar           : "XJC_PNG.png"
   name             : "Jiacheng Xue"
   pronouns         : # example: "she/her"  
-  bio              : "Master student, Me, XJTU"
+  bio              : "Master student, ME, XJTU"
   location         : "China Xi'an"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
