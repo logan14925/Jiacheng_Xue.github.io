@@ -17,12 +17,12 @@ Inverse design methodologies for metamaterials leverage machine learning to crea
 
 The Mobile 3D Printing Robot revolutionizes additive manufacturing by integrating a dynamic, flexible chassis that significantly expands the printing area beyond traditional constraints. This innovative design enhances mobility and adaptability, enabling large-scale, high-precision fabrication for diverse applications in advanced manufacturing and adaptive construction.
 
+*(Detailed and comprehensive research projects focusing on omnidirectional robotics and UAV-based pedestrian trajectory prediction will be thoroughly updated and refined by **July 5th.**)*
+
 <div style="text-align: center;">
   <img src="../images/MAM.jpg" width="35%" style="display: inline-block;">
 </div>
-<div style="text-align: center;">
-  <img src="../images/oimi_directional_chassis.mp4" width="35%" style="display: inline-block;">
-</div>
+
 
 
 # 3D Printer Online Monitoring
