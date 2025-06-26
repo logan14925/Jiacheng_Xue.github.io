@@ -20,9 +20,10 @@ The Mobile 3D Printing Robot revolutionizes additive manufacturing by integratin
 <div style="text-align: center;">
   <img src="../images/MAM.jpg" width="35%" style="display: inline-block;">
 </div>
+<div style="text-align: center;">
+  <img src="../images/oimi_directional_chassis.mp4" width="35%" style="display: inline-block;">
+</div>
 
-<iframe src="https://drive.google.com/file/d/1nxYNJQqZlTPqpFMSspsq9bB2RXcuE2jb/view?usp=sharing" 
-        width="640" height="360" allow="autoplay"></iframe>
 
 # 3D Printer Online Monitoring
 
