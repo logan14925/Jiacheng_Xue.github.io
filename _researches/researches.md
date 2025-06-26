@@ -1,7 +1,8 @@
 ---
-title: "researches"
+title: "robotics_chassis"
 excerpt: "what"
 collection: researches
+permalink: /researches/robotics_chassis/
 ---
 
-test research11111
+s
