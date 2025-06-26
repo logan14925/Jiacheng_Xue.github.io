@@ -21,6 +21,9 @@ The Mobile 3D Printing Robot revolutionizes additive manufacturing by integratin
   <img src="../images/MAM.jpg" width="35%" style="display: inline-block;">
 </div>
 
+<iframe src="https://drive.google.com/file/d/YOUR_FILE_ID/preview" 
+        width="640" height="360" allow="autoplay"></iframe>
+
 # 3D Printer Online Monitoring
 
 The Mobile 3D Printing Robot revolutionizes additive manufacturing by integrating a dynamic, flexible chassis that significantly expands the printing area beyond traditional constraints. This innovative design enhances mobility and adaptability, enabling large-scale, high-precision fabrication for diverse applications in advanced manufacturing and adaptive construction.
