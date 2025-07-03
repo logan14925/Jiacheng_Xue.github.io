@@ -1,14 +1,36 @@
 ---
-layout: archive
-title: ""
+layout: archi**Xi'an Jiaotong University**  
+*Master of Mechanical Enginee## Honors  
+
+- **Outstanding Community Organization Leader** — Xi'an Jiaotong University  
+- **Second-Class Academic Scholarship (Graduate)** — Xi'an Jiaotong University  
+- **Third-Class Academic Scholarship (Undergraduate)** — Xi'an Jiaotong University  
+- **Outstanding Class Leader** — Xi'an Jiaotong University  
+- **RoboMaster National Competition First Prize** — *2022, 2023, 2024*  
+- **RoboMaster Engineering Robot First Prize** — *2022, 2024*  
+- **RoboMaster Dart System Second Prize** — *2022*  
+- **RoboMaster Hero Robot First Prize** — *2024*  
+- **Outstanding Assistant Teacher** — DJI Education Frontier Plan 2021 Advisor: Prof. Xiang Li*  
+Shaanxi, China  
+*Sept. 2023 – July 2026 (Expected)*  
+**Laboratory:** Key Laboratory of Modern Design and Rotor-Bearing System (MOE)  
+**Research Focus:** Embodied Intelligence, Signal Processing, Embedded Software Development, Fault Diagnosis
+
+**Xi'an Jiaotong University**  
+*Bachelor of Mechanical Engineering*  
+Shaanxi, China  
+*Aug. 2019 – Jul. 2023*  
+**Core Courses:** Mechanical Design Fundamentals, Control Engineering, Linear Algebra, Theoretical Mechanics: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-# Jiacheng Xue  
-**Telephone:** +86 187-2968-9067 | **Email:** jiachengxue2001@gmail.com
+# Jie Xiong（熊杰）  
+**Mobile:** +86 156-6474-6727 | **Email:** 2716191411@qq.com  
+**WeChat:** jedauditore | **Target City:** Shanghai  
+**Position:** Mechanical Structure Engineer
 
 ---
 
@@ -28,29 +50,41 @@ Shaanxi, China
 
 ## Publications  
 
-- **Chi X.†, Xue J.†**, Jia L., *et al.* Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites. *Additive Manufacturing Frontiers* 2025;4:200196. doi: 10.1016/j.amf.2025.200196. *†Co-first authors.*
-- Wu L., **Xue J.**, Tian X., *et al.* 3D-printed Metamaterials with Versatile Functionalities. *Additive Manufacturing Frontiers* 2023;2:100091. doi: 10.1016/j.cjmeam.2023.100091.
-- Wu L., Lu Y., Li P., Wang Y., **Xue J.**, *et al.* Mechanical Metamaterials for Handwritten Digits Recognition. *Advanced Science* 2024;11:2308137. doi: 10.1002/advs.202308137.
-- Song X., Yan S., Wang Y., Zhang H., **Xue J.**, *et al.* Genetic algorithm-enabled mechanical metamaterials for vibration isolation with different payloads. *Journal of Materiomics* 2025;11:100944. doi: 10.1016/j.jmat.2024.100944.
+- **Xiong J.** *Automated Non-Contact Vibration Measurement with Dynamic Vision: Framework and Signal Component Analysis.* Submitted to *International Conference on Control, Robotics and Engineering* (ICCRE) 2025. (First Author, EI Indexed)
+
+## Patents & Software Copyrights
+
+- **Xiong J.**, et al. *Visual Measurement Method for Mechanical Micro-vibration Based on Event Camera Data Statistics.* China Patent Application No. CN202410495511.9, 2024. (First Author)
+- **Xiong J.**, et al. *Dynamic Vision Non-contact Real-time Vibration Measurement System.* Software Copyright No. 2025SR0245080, 2025.
 
 ---
 
 ## Research Experience  
 
-### Online Monitoring and Closed-Loop Control of 3D Printing  
-*Sept. 2022 – Sept. 2023*  
-- Achieved recognition accuracies of 94.7% for pure material and 97.71% for continuous fiber-reinforced composite 3D printing.  
-- Increased the tensile strength and elastic modulus by 17.29 and 44.80 times.
+### Event Camera-based Non-contact Vibration Measurement System  
+*Sept. 2024 – Present*  
+- **Technology Stack:** Ubuntu, ROS2, Reinforcement Learning, SolidWorks
+- Developed spatio-temporal density clustering algorithm for DVS with 82%+ noise removal efficiency
+- Designed vibration reconstruction algorithm for extracting micro-vibration components from dynamic vision signals
+- Established dynamic vision measurement standards for stable extraction of 2-300Hz frequency vibration features
+- Created edge computing device for engineering applications with robotic arm assistance
 
-### Mobile Robotic Platform for Additive Manufacturing  
-*Apr. 2024 – Nov. 2025*  
-- Achieved an average positioning error of 1.41mm over a 200mm movement range  
-- Secured invention patent in China (No. 7846171) for 3D printing robot design
+### RoboMaster Competition Projects  
+*2020 – 2024 Seasons*  
 
-### Inverse Design of Mechanical Metamaterials Using Machine Learning  
-*Oct. 2024 – present*  
-- Attained exceptional R² accuracies of 99.62% in computational modeling and 86.99% in experimental validation  
-- Optimized inverse design results using prescribed weight vectors, balancing manufacturability and compactness.
+**Engineering Robot Development (2022-2024)**
+- **2022:** Designed pneumatic suction mechanism achieving 76kPa negative pressure, <0.3s complete suction, 20+ min continuous operation
+- **2023:** Developed multi-DOF robotic arm with large-scale deformation mechanisms for flexible object manipulation
+- **2024 (Technical Advisor):** Led design of automated exchange system with computer vision and gantry structure
+
+**Dart System Development (2022)**
+- Designed modular dart projectiles with ANSYS Fluent aerodynamic simulation
+- Achieved 60%+ hit rate on 15cm×15cm target at 17m distance (4th nationally in actual combat data)
+- Developed multi-stage friction wheel acceleration mechanism with dual screw transmission
+
+**Hero Robot Launcher (2023-2024)**
+- **2023 Bachelor Thesis:** Developed three-belt launching mechanism with extended acceleration stroke
+- **2024:** Upgraded to dual-stage six-friction-wheel system, achieving 80%+ hit rate at 20m distance
 
 ---
 
@@ -62,16 +96,30 @@ Shaanxi, China
 
 ---
 
-## Extracurricular Activities  
+## Leadership Experience  
 
-- Showcased machine learning-based inverse design of metamaterials at the 3rd China Metamaterials Conference, **Jiaxing, China** — *May 2024*  
-- Conducted research on robotics technologies during an internship at DJI, **Shenzhen, China** — *May 2024*  
-- Implemented motor Field-Oriented Control (FOC) algorithms during an internship at Xihu Interaction Company, **Hangzhou, China** — *Jul. 2024*  
-- Presented research at the 13th Asian-Australasian Conference on Composite Materials, **Kyoto, Japan** — *Aug. 2024*
+### Team Captain, RoboMaster Robotics Team  
+*Sept. 2021 – Aug. 2022*  
+- Led team from poor previous performance to national first prize achievement
+- Managed competition planning, funding, and project management with innovative efficiency methods
+- Established "Xi'an Alliance" connecting 5 universities (XJTU, NPU, Xidian, Chang'an, XUT) with 500+ participants
+- Simultaneously led two robot development projects while overseeing all mechanical design reviews
 
----
+### Technical Advisor, RoboMaster Robotics Team  
+*Sept. 2022 – Present*  
+- Participate in seasonal R&D planning and budget management
+- Supervise development progress and provide technical support for all mechanical structure designs
+- Served as Engineering Robot project leader in 2023 season
+
+### Class Study Committee Member  
+*Sept. 2019 – Sept. 2020*  
+- Organized online study sessions during COVID-19, leading class to rank #1 in academic performance
+- Coordinated group purchasing of textbooks, reducing costs to 20% of original price
+- Awarded "Outstanding Class Leader" during tenure
 
 ## Skills  
 
-- **Language:** English (TOEFL: 98)  
-- **Tools:** SOLIDWORKS, ABAQUS, PYTHON, STM32, Adobe Illustrator
+- **CAE/CAM Software:** Proficient in SolidWorks, AutoCAD; Familiar with ANSYS Fluent, Blender  
+- **Programming Languages:** Proficient in C/C++; Familiar with Python  
+- **Embedded Development:** Proficient in ROS2, Mujoco, Qt (C++); Familiar with Linux, FreeRTOS-based MCU development  
+- **Language Proficiency:** CET-4: 602, CET-6: 469
