@@ -12,6 +12,7 @@ title                    : "Jie Xiong"
 title_separator          : "-"
 name                     : &name "Jie Xiong"
 description              : &description "Master student specializing in Embodied Intelligence and Robotics at Xi'an Jiaotong University"
+remote_theme             : "academicpages/academicpages.github.io"
 url                      : https://JedAuditore2.github.io/Jie_Xiong.github.io
  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/Jie_Xiong.github.io" # the subpath of your site, e.g. "/blog"
