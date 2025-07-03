@@ -1,6 +1,26 @@
 ---
-layout: archive
-title: ""
+layout: archi**Xi'an Jiaotong University**  
+*Master of Mechanical Enginee## Honors  
+
+- **Outstanding Community Organization Leader** — Xi'an Jiaotong University  
+- **Second-Class Academic Scholarship (Graduate)** — Xi'an Jiaotong University  
+- **Third-Class Academic Scholarship (Undergraduate)** — Xi'an Jiaotong University  
+- **Outstanding Class Leader** — Xi'an Jiaotong University  
+- **RoboMaster National Competition First Prize** — *2022, 2023, 2024*  
+- **RoboMaster Engineering Robot First Prize** — *2022, 2024*  
+- **RoboMaster Dart System Second Prize** — *2022*  
+- **RoboMaster Hero Robot First Prize** — *2024*  
+- **Outstanding Assistant Teacher** — DJI Education Frontier Plan 2021 Advisor: Prof. Xiang Li*  
+Shaanxi, China  
+*Sept. 2023 – July 2026 (Expected)*  
+**Laboratory:** Key Laboratory of Modern Design and Rotor-Bearing System (MOE)  
+**Research Focus:** Embodied Intelligence, Signal Processing, Embedded Software Development, Fault Diagnosis
+
+**Xi'an Jiaotong University**  
+*Bachelor of Mechanical Engineering*  
+Shaanxi, China  
+*Aug. 2019 – Jul. 2023*  
+**Core Courses:** Mechanical Design Fundamentals, Control Engineering, Linear Algebra, Theoretical Mechanics: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,33 +36,15 @@ redirect_from:
 
 ## Education  
 
-**Xi'an Jiaotong University**  
-*Master of Mechanical Engineering*  
-Advisor: Prof. Xiang Li  
+**Xi’an Jiaotong University**  
+*Master of Mechanical Engineering, GPA: 3.53/4.00*  
 Shaanxi, China  
-*Sept. 2023 – July 2026 (Expected)*  
-**Laboratory:** Key Laboratory of Modern Design and Rotor-Bearing System (MOE)  
-**Research Focus:** Embodied Intelligence, Signal Processing, Embedded Software Development, Fault Diagnosis
+*Sept. 2023 – present*
 
-**Xi'an Jiaotong University**  
-*Bachelor of Mechanical Engineering*  
+**Xi’an Jiaotong University**  
+*Bachelor of Mechanical Engineering, GPA: 3.37/4.00*  
 Shaanxi, China  
-*Aug. 2019 – Jul. 2023*  
-**Core Courses:** Mechanical Design Fundamentals, Control Engineering, Linear Algebra, Theoretical Mechanics
-
----
-
-## Honors  
-
-- **Outstanding Community Organization Leader** — Xi'an Jiaotong University  
-- **Second-Class Academic Scholarship (Graduate)** — Xi'an Jiaotong University  
-- **Third-Class Academic Scholarship (Undergraduate)** — Xi'an Jiaotong University  
-- **Outstanding Class Leader** — Xi'an Jiaotong University  
-- **RoboMaster National Competition First Prize** — *2022, 2023, 2024*  
-- **RoboMaster Engineering Robot First Prize** — *2022, 2024*  
-- **RoboMaster Dart System Second Prize** — *2022*  
-- **RoboMaster Hero Robot First Prize** — *2024*  
-- **Outstanding Assistant Teacher** — DJI Education Frontier Plan 2021
+*Sept. 2019 – Jul. 2023*
 
 ---
 
@@ -83,6 +85,14 @@ Shaanxi, China
 **Hero Robot Launcher (2023-2024)**
 - **2023 Bachelor Thesis:** Developed three-belt launching mechanism with extended acceleration stroke
 - **2024:** Upgraded to dual-stage six-friction-wheel system, achieving 80%+ hit rate at 20m distance
+
+---
+
+## Honors  
+
+- First-Class SMC Fellowship — *2021*  
+- Outstanding Student Leader Graduate of Xi’an Jiaotong University — *2023*  
+- First Prize in the RoboMaster National Robotics Competition — *2022, 2023 and 2024*
 
 ---
 

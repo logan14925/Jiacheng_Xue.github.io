@@ -8,34 +8,34 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Home"
+title                    : "Jie Xiong"
 title_separator          : "-"
-name                     : &name "Jiacheng Xue"
-description              : &description "personal description"
-url                      : https://logan14925.github.io/Jiacheng_Xue.github.io
+name                     : &name "Jie Xiong"
+description              : &description "Master student specializing in Embodied Intelligence and Robotics at Xi'an Jiaotong University"
+remote_theme             : "academicpages/academicpages.github.io"
+url                      : https://JedAuditore2.github.io/Jie_Xiong.github.io
  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "logan14925/Jiacheng_Xue.github.io"
+baseurl                  : "/Jie_Xiong.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "JedAuditore2/Jie_Xiong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "XJC_PNG.png"
-  name             : "Jiacheng Xue"
+  avatar           : "profile.png"
+  name             : "Jie Xiong (熊杰)"
   pronouns         : # example: "she/her"  
-  bio              : "Master student, ME, XJTU"
-  location         : "China Xi'an"
+  bio              : "Master student in Mechanical Engineering, specializing in Embodied Intelligence and Dynamic Vision"
+  location         : "Xi'an, China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
-  email            : "jiachengxue2001@gmail.com" 
+  email            : "2716191411@qq.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=oS-BHzcAAAAJ&hl=en"
+  googlescholar    : # Will be updated once publications are indexed
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "/logan14925"
+  github           : "JedAuditore2"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
