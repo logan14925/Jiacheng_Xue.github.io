@@ -13,6 +13,12 @@ author_profile: true
 
 ## My Journey in RoboMaster
 
+I devoted the majority of my university years to the **DuXing** RoboMaster team, where I experienced tremendous growth both technically and personally. Many professors and friends often asked why I poured so much time and energy into something that seemed to offer little tangible return—neither financial gain nor traditional academic output. But my answer never changed: 
+
+*"every time I structured a mechanical system or wrote a line of control code, it felt like I was breathing life into a machine. In those moments, I wasn’t just building a robot—I was building a part of myself."*
+
+**Only love.** 
+
 ### 2021: Sentinel Robot Chassis Design
 As part of the mechanical team, I designed the chassis for the Sentinel robot, focusing on stability and maneuverability through mechanical engineering principles and structural optimization.
 
@@ -30,7 +36,7 @@ I designed the Infantry robot chassis, prioritizing speed, durability, and adapt
 <div style="text-align: center; color: #888; font-size: 12px; margin-top: 8px;">My innovative designs for the Infantry robot family, showcasing a blend of functionality and creativity.</div>
 
 ### 2023: Team Captain
-As team captain, I led the team to equal its historical best performance, reaching the national top 16. My role involved strategic planning, team coordination, and optimizing robot design and performance.
+As team captain, I led the team to equal its historical best performance, reaching the national top 16. My role involved strategic planning, team coordination, and optimizing robot design and performance. 
 
 <div style="display: flex; gap: 15px; justify-content: center; align-items: flex-start; margin: 20px 0; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 220px; text-align: center;">

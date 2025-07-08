@@ -1,6 +1,6 @@
 # Academic Pages of Jiacheng Xue
 
-This is the personal academic website of Jiacheng Xue, built using [Jekyll](https://jekyllrb.com/) and the [AcademicPages](https://github.com/academicpages/academicpages.github.io) template. The site showcases research, publications, CV, teaching, talks, and RoboMaster experience.
+This is the personal academic website of [Jiacheng Xue](), built using [Jekyll](https://jekyllrb.com/) and the [AcademicPages](https://github.com/academicpages/academicpages.github.io) template. The site showcases research, publications, CV, teaching, talks, and RoboMaster experience.
 
 ## Features
 

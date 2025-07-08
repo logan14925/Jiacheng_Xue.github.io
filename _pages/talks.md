@@ -30,20 +30,23 @@ author_profile: true
 </div>
 
 <!-- Other images in a row -->
-<div style="display: flex; gap: 15px; justify-content: center; align-items: flex-start; margin: 20px 0; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 180px; max-width: 250px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; justify-items: center; margin: 20px 0;">
+  <div style="max-width: 250px; text-align: center;">
     <img src="../images/talks/meta1.jpg" alt="Metamaterials Talk 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #ccc;">
     <div style="margin-top: 8px; color: #888; font-size: 12px;">Presenting at the 3rd China Metamaterials Conference, Jiaxing</div>
   </div>
-  <div style="flex: 1; min-width: 180px; max-width: 250px; text-align: center;">
+
+  <div style="max-width: 250px; text-align: center;">
     <img src="../images/talks/taiyuan.jpg" alt="Taiyuan Talk" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #ccc;">
-    <div style="margin-top: 8px; color: #888; font-size: 12px;">Sharing at the Manufacturing Conference, Taiyuan， Shanxi</div>
+    <div style="margin-top: 8px; color: #888; font-size: 12px;">Sharing at the Manufacturing Conference, Taiyuan, Shanxi</div>
   </div>
-  <div style="flex: 1; min-width: 180px; max-width: 250px; text-align: center;">
+
+  <div style="max-width: 250px; text-align: center;">
     <img src="../images/talks/Koyto1.jpg" alt="Kyoto Talk 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #ccc;">
     <div style="margin-top: 8px; color: #888; font-size: 12px;">Kyoto Conference Presentation</div>
   </div>
-  <div style="flex: 1; min-width: 180px; max-width: 250px; text-align: center;">
+
+  <div style="max-width: 250px; text-align: center;">
     <img src="../images/talks/Koyto2.jpg" alt="Kyoto Talk 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #ccc;">
     <div style="margin-top: 8px; color: #888; font-size: 12px;">Dinner in Kyoto</div>
   </div>
