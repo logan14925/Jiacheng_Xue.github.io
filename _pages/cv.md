@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+# CV
 <!-- Embed CV PDF with scroll/slide enabled -->
 <div style="width:100%; max-width:800px; margin:auto;">
   <iframe src="../files/CV_XUE_250629.pdf" width="100%" height="1200px" style="border: none;">

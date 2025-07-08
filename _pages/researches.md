@@ -74,7 +74,20 @@ This project focuses on predicting pedestrian trajectories using UAV (Unmanned A
 
 This project presents an advanced system that integrates Mask-RCNN and Octoprint for real-time fracture detection and parameter monitoring in 3D printing. The system achieves 94.7% and 97.7% recognition accuracies for pure materials and fiber-reinforced composites, respectively, enabling reliable quality assurance during additive manufacturing.
 
-<div style="text-align: center;">
-  <img src="../images/online_monitoring.jpg" width="80%" style="display: inline-block; border-radius: 10px; box-shadow: 0 2px 12px #bbb;">
-  <div style="margin-top: 8px; color: #888; font-size: 14px;">Visualization of the online monitoring system for 3D printers</div>
+
+
+<div style="margin: 20px 0; text-align: center;">
+  <!-- 图1 -->
+  <div style="width: 600px; margin: 0 auto; text-align: center;">
+    <img src="../images/online_monitoring.jpg" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 2px 12px #bbb;">
+    <div style="margin-top: 8px; color: #888; font-size: 14px;">Visualization of the online monitoring system for 3D printers</div>
+  </div>
+</div>
+
+<div style="margin: 20px 0; text-align: center;">
+  <!-- 图2 -->
+  <div style="width: 600px; margin: 0 auto; text-align: center;">
+    <img src="../images/projects/Online_monitor.gif" alt="Pedestrian Following" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px #ccc;">
+    <div style="margin-top: 8px; color: #888; font-size: 12px;">Pedestrian Following (UAV tracking)</div>
+  </div>
 </div>
