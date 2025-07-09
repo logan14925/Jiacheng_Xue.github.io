@@ -1,6 +1,6 @@
 # Academic Pages of Jiacheng Xue
 
-This is the personal academic website of [Jiacheng Xue](), built using [Jekyll](https://jekyllrb.com/) and the [AcademicPages](https://github.com/academicpages/academicpages.github.io) template. The site showcases research, publications, CV, teaching, talks, and RoboMaster experience.
+This is the personal academic website of [**Jiacheng Xue**](https://logan14925.github.io/Jiacheng_Xue.github.io/), built using [Jekyll](https://jekyllrb.com/) and the [AcademicPages](https://github.com/academicpages/academicpages.github.io) template. The site showcases research, publications, CV, teaching, talks, and RoboMaster experience.
 
 ## Features
 
@@ -38,6 +38,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-**Template recommendation:**  
-- [Tushaar Kataria's Academic Template](https://tushaarkataria.github.io/)
-- [JieXiong's Projects (my teammate)](https://jedauditore2.github.io//projects/)
+# Recommendation websites  
+- [Tushaar Kataria's Academic Template](https://tushaarkataria.github.io/)(format)
+- [Jie Xiong's Projects (my teammate)](https://jedauditore2.github.io//projects/)

@@ -15,7 +15,7 @@ author_profile: true
 
 I devoted the majority of my university years to the **DuXing** RoboMaster team, where I experienced tremendous growth both technically and personally. Many professors and friends often asked why I poured so much time and energy into something that seemed to offer little tangible return—neither financial gain nor traditional academic output. But my answer never changed: 
 
-*"every time I structured a mechanical system or wrote a line of control code, it felt like I was breathing life into a machine. In those moments, I wasn’t just building a robot—I was building a part of myself."*
+*"Every time I structured a mechanical system or wrote a line of control code, it felt like I was breathing life into a machine. In those moments, I wasn’t just building a robot—I was building a part of myself."*
 
 **Only love.** 
 
